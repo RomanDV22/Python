@@ -1,0 +1,3 @@
+El curso de Python Pip y Entornos Visuales de Platzi
+lo voy a hacer en rodreehjs, para posteriormente
+copiarlo en mi ususario de Windows. Ok?
